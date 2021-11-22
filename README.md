@@ -1,7 +1,7 @@
 <div align="center">
-  <h2> 👋  Hi there! My name is Brunna and I'm <strong>Developer FullStack<strong>! 🎭  </h2>
+  <h2> 👋  Hi there! My name is Brunna and I'm Developer FullStack! 🎭  </h2>
 
-<h3> I decided to learn code 🎒 and then studied for 1600 <itenside hours 🔥  </h3>
+<h3> I decided to learn code 🎒 and then studied for 1600 itenside hours 🔥  </h3>
 
 <h3> 🔭 See my Portifólio: <a href="https://www.brunnacroches.dev"> brunnacroches.dev </a>  </h3>
 </div>
