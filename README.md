@@ -4,7 +4,7 @@
 
 🔭 See my Site: 
    <a href="https://www.brunnacroches.dev">
-   🔭 brunnacroches.dev
+    brunnacroches.dev
   </a> 
  
 🔭 See my LinkedIn:  
