@@ -3,15 +3,25 @@
 ## I decided to learn code__ 🎒 | Then studied for 1600 itenside hours 🔥 
 
 🌱 I have experience with projects using: 🌱 
+
   💡 JavaScript, 
-  💡 Typescript, 
+  
+  💡 Typescript,  
+  
   💡 NodeJS, 
-  💡 ReactJS, 
+  
+  💡 ReactJS,
+  
   💡 React Native, 
+  
   💡 Django, 
-  💡 Angular, 
-  💡 Vue.js, 
-  💡 Bootstrap 
+  
+  💡 Angular,
+  
+  💡 Vue.js,
+  
+  💡 Bootstrap
+  
   and others. 
 
 🔭 See my LinkedIn: BRUNNA CROCHES
