@@ -5,7 +5,7 @@
 
 <h2> I decided to learn code 🎒 and then studied for 1600 itensive hours 🔥  </h2>
 
-<h1> 🔭 See my Portifólio: <a href="https://www.brunnacroches.dev"> brunnacroches.dev </a>  </h1>
+<h2> 🔭 see my portifólio on <a href="https://www.brunnacroches.dev"> brunnacroches.dev </a>  </h2>
 </div>
 
 ##
