@@ -2,7 +2,7 @@
 ## Hi there! 👋 
 # I'm Developer FullStack! 🎭
 
-# I decided to learn code Then studied for 1600 itenside hours 🔥 
+# I decided to learn code__ 🎒 Then studied for 1600 itenside hours 🔥 
 
 🌱 I have experience with projects using JavaScript, Typescript, NodeJS, ReactJS, React Native, Django, Angular, Vue.js, Bootstrap and others. 
 
