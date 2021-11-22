@@ -1,6 +1,8 @@
 <div align="center">
-  <h2>  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>  Hi! </h2>
+  <h2>  <a href="hi"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>  Hi! </h2>
     
+  <iframe src="https://giphy.com/embed/3og0IUEEbY9wRwrBL2" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-emoji-gradient-3og0IUEEbY9wRwrBL2">via GIPHY</a></p>
+  
   <h3>  My name is Brunna and I'm Developer FullStack! 🎭 </h3>
 
 <h2> I decided to learn code 🎒 and then studied for 1600 itensive hours 🔥  </h2>
