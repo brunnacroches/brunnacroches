@@ -1,5 +1,6 @@
 # brunnacroches
-## Hi there! 👋 I'm Developer FullStack!
+## Hi there! 👋 
+# I'm Developer FullStack! 🎭
 
 # I decided to learn code Then studied for 1600 itenside hours 🔥 
 
