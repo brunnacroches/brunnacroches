@@ -3,14 +3,13 @@
 ## I decided to learn code__ 🎒 | Then studied for 1600 itenside hours 🔥 
 
 🔭 See my Site: 
- 
-  <a href="https://www.brunnacroches.dev">
-   🔭 www.brunnacroches.dev
+   <a href="https://www.brunnacroches.dev">
+   🔭 brunnacroches.dev
   </a> 
  
 🔭 See my LinkedIn:  
  <a href="https://www.linkedin.com/in/brunnacroches">
-   www.linkedin.com/in/brunnacroches
+   linkedin.com/in/brunnacroches
   </a>
   
 </div>
