@@ -2,9 +2,9 @@
 
 ## I decided to learn code__ 🎒 | Then studied for 1600 itenside hours 🔥 
 
-# 🔭 See my Site: <a href="https://www.brunnacroches.dev">
-   brunnacroches.dev </a> 
+# 🔭 See my Site: <a href="https://www.brunnacroches.dev"> brunnacroches.dev </a> 
 
+##
   
 <div align="center">
   <a href="https://github.com/brunnacroches">
