@@ -1,5 +1,13 @@
 # brunnacroches
-## Hello! I'm Brunna Croches, Developer FullStack!
+## Hi there! 👋 I'm Developer FullStack!
+
+# I decided to learn 🌱code🌱_ Then studied for 1600 itenside hours 🔥🔥🔥 
+
+🌱 I have experience with projects using JavaScript, Typescript, NodeJS, ReactJS, React Native, Django, Angular, Vue.js, Bootstrap and others. 
+
+🔭 See my LinkedIn: BRUNNA CROCHES
+🔭 See my Site: <a href="www.brunnacroches.dev">
+
 <div align="center">
   <a href="https://github.com/brunnacroches">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunnacroches&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true%22/"/>
