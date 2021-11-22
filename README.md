@@ -2,9 +2,13 @@
 
 ## I decided to learn code__ 🎒 | Then studied for 1600 itenside hours 🔥 
 
-🔭 See my LinkedIn: BRUNNA CROCHES
-🔭 See my Site: <a href="www.brunnacroches.dev">
+<div>
+  🔭 See my LinkedIn: <a href="https://www.linkedin.com/in/brunnacroches"></a>
 
+  🔭 See my Site:  <a href="https://www.brunnacroches.dev"></a> 
+  
+</div>
+  
 <div align="center">
   <a href="https://github.com/brunnacroches">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunnacroches&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true%22/"/>
