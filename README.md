@@ -1,11 +1,11 @@
 <div align="center">
   <h2>  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>  Hi! </h2>
     
-  <h2>  My name is Brunna and I'm Developer FullStack! 🎭 </h2>
+  <h3>  My name is Brunna and I'm Developer FullStack! 🎭 </h3>
 
-<h3> I decided to learn code 🎒 and then studied for 1600 itensive hours 🔥  </h3>
+<h2> I decided to learn code 🎒 and then studied for 1600 itensive hours 🔥  </h2>
 
-<h3> 🔭 See my Portifólio: <a href="https://www.brunnacroches.dev"> brunnacroches.dev </a>  </h3>
+<h1> 🔭 See my Portifólio: <a href="https://www.brunnacroches.dev"> brunnacroches.dev </a>  </h1>
 </div>
 
 ##
