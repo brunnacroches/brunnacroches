@@ -1,7 +1,7 @@
 <div align="center">
   <h2>  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>  Hi! </h2>
     
-    My name is Brunna and I'm Developer FullStack! 🎭 
+  <h2>  My name is Brunna and I'm Developer FullStack! 🎭 </h2>
 
 <h3> I decided to learn code 🎒 and then studied for 1600 itensive hours 🔥  </h3>
 
