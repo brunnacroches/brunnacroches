@@ -1,9 +1,9 @@
 <div align="center">
-  <h1> Hi there! 👋 I'm Developer FullStack! 🎭  </h1>
+  <h2> 👋  Hi there! My name is Brunna and I'm Developer FullStack! 🎭  </h2>
 
-## I decided to learn code__ 🎒 | Then studied for 1600 itenside hours 🔥 
+<h3> I decided to learn code__ 🎒 | Then studied for 1600 itenside hours 🔥  </h3>
 
-## 🔭 See my Site: <a href="https://www.brunnacroches.dev"> brunnacroches.dev </a> 
+<h3> 🔭 See my Portifólio: <a href="https://www.brunnacroches.dev"> brunnacroches.dev </a>  </h3>
 </div>
 
 ##
